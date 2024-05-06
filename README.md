@@ -1,2 +1,2 @@
 # MediConnect
-MediConnect - A healthcare appointment platform (Team 3)
+MediConnect - A healthcare appointment platform (Team 3);
