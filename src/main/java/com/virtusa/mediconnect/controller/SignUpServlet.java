@@ -71,9 +71,12 @@ public class SignUpServlet extends HttpServlet {
         }
 
         HttpSession session = req.getSession();
+        session.setAttribute("name", name);
         session.setAttribute("email", email);
         session.setAttribute("role", role);
-
+        
+        //resp.sendRedirect("patient_dashboard");
         resp.sendRedirect("welcome");
+        
     }
 }

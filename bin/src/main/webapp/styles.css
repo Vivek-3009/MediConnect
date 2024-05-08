@@ -1,9 +1,9 @@
 /* External CSS */
- 
+
 .html {
   scroll-behavior: smooth;
 }
- 
+
 .navbar-brand {
   font-size: 28px;
   font-weight: bold;
@@ -12,79 +12,79 @@
 .navbar-nav .nav-item {
   margin-right: 15px;
 }
- 
+
 /* Style the images */
 img.img-fluid {
   width: 100%;
   height: auto;
 }
- 
+
 /* About Us Section */
 #about {
   background-color: #f8f9fa; /* Light gray background */
   padding: 80px 0; /* Top and bottom padding */
 }
- 
+
 #about h2 {
   color: #343a40; /* Dark text color */
 }
- 
+
 #about p {
   color: #6c757d; /* Medium text color */
 }
- 
+
 /* Contact Section */
 #contact {
   background-color: #343a40; /* Dark background */
   padding: 80px 0; /* Top and bottom padding */
 }
- 
+
 #contact h5 {
   color: #ffffff; /* White text color */
 }
- 
+
 #contact a,
 #contact p {
   color: #cccccc; /* Light text color */
 }
- 
+
 /* Social Media Links Section */
 #social-media {
   background-color: #343a40; /* Dark background */
   padding: 80px 0; /* Top and bottom padding */
 }
- 
+
 #social-media h5 {
   color: #ffffff; /* White text color */
 }
- 
+
 #social-media p {
   color: #cccccc; /* Light text color */
 }
- 
+
 #social-media .list-inline-item a {
   color: #ffffff; /* White text color */
 }
- 
+
 #social-media .list-inline-item a:hover {
   color: #adb5bd; /* Lighter text color on hover */
 }
- 
+
 /* Form styles */
 form {
   margin-top: 20px;
   margin-left: 35%;
 }
- 
+
 form .form-group {
   width: 50%;
   margin-bottom: 20px;
 }
- 
+
 form label {
   color: #343a40; /* Dark text color */
 }
- 
+
 form input[type="text"],
 form input[type="email"],
 form input[type="password"],
@@ -94,7 +94,7 @@ form select {
   border: 1px solid #ced4da; /* Light gray border */
   border-radius: 4px;
 }
- 
+
 form input[type="text"]:focus,
 form input[type="email"]:focus,
 form input[type="password"]:focus,
@@ -102,7 +102,7 @@ form select:focus {
   border-color: #80bdff; /* Blue border on focus */
   outline: none;
 }
- 
+
 form button[type="submit"] {
   width: 50%;
   padding: 10px;
@@ -112,11 +112,11 @@ form button[type="submit"] {
   border-radius: 4px;
   cursor: pointer;
 }
- 
+
 form button[type="submit"]:hover {
   background-color: #0056b3; /* Darker blue button background on hover */
 }
- 
+
 form .invalid-feedback {
   color: #dc3545; /* Red text color for invalid feedback */
 }

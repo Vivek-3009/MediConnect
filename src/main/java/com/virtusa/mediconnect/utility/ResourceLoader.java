@@ -1,4 +1,4 @@
-package mediconnect.utility;
+package com.virtusa.mediconnect.utility;
 
 import java.util.ResourceBundle;
 
